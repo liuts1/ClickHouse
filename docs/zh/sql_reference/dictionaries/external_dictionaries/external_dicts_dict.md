@@ -7,7 +7,7 @@ toc_title: "\u914D\u7F6E\u5916\u90E8\u5B57\u5178"
 
 # 配置外部字典 {#dicts-external-dicts-dict}
 
-如果使用xml文件配置字典，则比字典配置具有以下结构:
+如果使用xml文件配置字典，则xml文件具有以下结构:
 
 ``` xml
 <dictionary>
